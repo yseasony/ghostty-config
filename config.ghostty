@@ -8,3 +8,4 @@ window-padding-y = 10
 
 keybind = global:cmd+\=toggle_quick_terminal
 keybind = global:cmd+r=clear_screen
+keybind = cmd+,=open_config
