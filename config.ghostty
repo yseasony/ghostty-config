@@ -1,9 +1,8 @@
 theme = Atom One Dark
 
 font-size = 14
-window-inherit-font-size = false
 window-padding-x = 10
 window-padding-y = 10
 
-keybind = global:cmd+backquote = toggle_quick_terminal
-keybind = cmd+r = clear_screen
+keybind = global:cmd+\=toggle_quick_terminal
+keybind = global:cmd+r=clear_screen
