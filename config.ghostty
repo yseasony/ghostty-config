@@ -5,6 +5,7 @@ font-size = 14
 window-inherit-font-size = false
 window-padding-x = 10
 window-padding-y = 10
+window-save-state = never
 
 keybind = global:cmd+\=toggle_quick_terminal
 keybind = global:cmd+r=clear_screen
