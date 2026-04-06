@@ -1,10 +1,14 @@
 theme = Atom One Dark
 
-font-size = 14
+font-size = 16
 
 window-inherit-font-size = false
 window-padding-x = 10
 window-padding-y = 10
+window-width = 130
+window-height = 40
+window-position-x = 610
+window-position-y = 250
 window-save-state = never
 
 keybind = global:cmd+\=toggle_quick_terminal
