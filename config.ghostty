@@ -13,4 +13,4 @@ window-save-state = never
 
 keybind = global:cmd+\=toggle_quick_terminal
 keybind = global:cmd+r=clear_screen
-keybind = cmd+,=open_config
+keybind = global:cmd+,=open_config
